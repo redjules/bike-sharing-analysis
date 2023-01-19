@@ -2,6 +2,8 @@
 
 ## by Ana Pedra
 
+## Presentation available [here](https://redjules.github.io/bike-sharing-analysis/).
+
 ## Dataset
 
 The dataset comprises 183,000 records of bike-sharing rides in the San Francisco Bay region. It includes details such as the duration of each ride in seconds, the date and time, the type of customer, and the rider's gender, among other information.
